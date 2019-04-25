@@ -12,4 +12,12 @@ We just came back from **7 days** in Jeju Island and Seoul where we met up with 
 3. Hiking and views on Jeju Island
 4. Our tour guides
 5. Watching Seoul enjoy the weekend at Olympic Park
+---
+April was a great time to go as cherry blossoms were out in bloom. 
+>A cloud of cherry blossoms;
+>The temple bell,
+>Is it Ueno, or it is Asakusa
 
+---
+	This is a code block
+	
